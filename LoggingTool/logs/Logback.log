@@ -1,0 +1,10 @@
+16:43:12.838 [main] TRACE org.example.Main - 1. This is for tracing
+16:43:12.840 [main] DEBUG org.example.Main - 2. This is for debugging
+16:43:12.841 [main] INFO  org.example.Main - 3. This is just for information
+16:43:12.842 [main] WARN  org.example.Main - 4. This is warnings
+16:43:12.842 [main] ERROR org.example.Main - 5. This is for errors
+17:08:55.083 [main] TRACE org.example.Main - 1. This is for tracing
+17:08:55.085 [main] DEBUG org.example.Main - 2. This is for debugging
+17:08:55.085 [main] INFO  org.example.Main - 3. This is just for information
+17:08:55.085 [main] WARN  org.example.Main - 4. This is warnings
+17:08:55.085 [main] ERROR org.example.Main - 5. This is for errors
